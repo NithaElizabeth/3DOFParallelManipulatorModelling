@@ -11,3 +11,12 @@ Figure above illustrates a 3DOF RRR Planar Parallel Manipulator with a cylindric
 
 <img width="427" alt="model" src="https://user-images.githubusercontent.com/47361086/126362911-4d120adf-fc11-49be-b74c-394ae35165cf.PNG">
 The described mechanism was modelled as a 3-RRR parallel planar manipulator in CATIA as shown in the figure above.The manipulator is modelled in x-y plane. As depicted the manipulator has a cylindrical workspace of base diameter equal to 100mm.The constraints are followed throughout the workspace.
+## Installation and Running Procedure
+Clone this github repository and open the parts in CATIA
+```
+git clone https://github.com/NithaElizabeth/3DOFParallelManipulatorModelling
+```
+## Author
+The system was developed by Nitha Elizabeth John and Raghuveer under the guidance of Prof.Stephane Caro. \
+Author  : Nitha Elizabeth John \
+Contact : nithaelizabethjohn@gmail.com
