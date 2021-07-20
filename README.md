@@ -7,4 +7,7 @@ For a planar parallel manipulator all the component and motions, including the e
 
 <img width="467" alt="Capture" src="https://user-images.githubusercontent.com/47361086/126361873-fef3ded1-b7cc-40c0-a313-b598a4ef02e4.PNG">
 
-Figure 1 illustrates a 3DOF RRR Planar Parallel Manipulator with a cylindrical workspace. Each kinematic chain is RRR type, which has three revolute joints out of which the first one in each limb is the actuating joint. The intention of the manipulator is to move, position and orient the triangle C1C2C3. P denotes the geometric center of the moving platform. The angle α1, α 2 and α 3 are the angles made by the actuating joints. O denotes the center of the base triangle A1A2A3 and it is the origin of the reference frame.
+Figure above illustrates a 3DOF RRR Planar Parallel Manipulator with a cylindrical workspace. Each kinematic chain is RRR type, which has three revolute joints out of which the first one in each limb is the actuating joint. The intention of the manipulator is to move, position and orient the triangle C1C2C3. P denotes the geometric center of the moving platform. The angle α1, α 2 and α 3 are the angles made by the actuating joints. O denotes the center of the base triangle A1A2A3 and it is the origin of the reference frame.
+
+<img width="427" alt="model" src="https://user-images.githubusercontent.com/47361086/126362911-4d120adf-fc11-49be-b74c-394ae35165cf.PNG">
+The described mechanism was modelled as a 3-RRR parallel planar manipulator in CATIA as shown in the figure above.The manipulator is modelled in x-y plane. As depicted the manipulator has a cylindrical workspace of base diameter equal to 100mm.The constraints are followed throughout the workspace.
